@@ -1,0 +1,32 @@
+# 🍳 Restaurant Fire Safety Compliance Skill
+
+A free Claude AI skill that helps restaurant owners and operators 
+stay compliant with NFPA 96 and Canadian/Alberta fire safety codes.
+
+## What it does
+
+- Tells you how often your hood system must be cleaned (by cooking type)
+- Explains what fire inspectors check — and what they often miss
+- Gives you a documentation checklist to survive any inspection
+- Covers Alberta-specific codes (NFC(AE) 2023, STANDATA)
+- Flags red flags that mean "call a pro immediately"
+
+## How to install
+
+**For Claude.ai users:**
+1. Download `restaurant-fire-safety-compliance.skill`
+2. Go to Claude.ai → Settings → Skills → Upload skill
+3. Done — Claude will automatically use it when you ask compliance questions
+
+**For Claude Code users:**
+```bash
+git clone https://github.com/YOUR-USERNAME/restaurant-fire-safety-compliance.git ~/.claude/skills/restaurant-fire-safety-compliance
+```
+
+## Built by
+
+**Northern Hood and Exhaust** — NFPA 96–trained commercial kitchen 
+exhaust cleaning serving Calgary, Airdrie, Chestermere, Cochrane, 
+Okotoks, High River, Red Deer, and surrounding Alberta areas.
+
+🌐 [northernhood.ca](https://northernhood.ca)
